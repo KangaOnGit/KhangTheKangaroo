@@ -16,7 +16,7 @@
 
 ###
 
-<h5 align="left">🔭 Current Research Interests: AI in Medical Applications, Physics-Inspired AI, Physics-Informed Neural Networks (PINNs), and Out-of-Distribution (OOD) Detection.</h5>
+<h5 align="left">🔭 Current Research Interests: AI in Medical Applications (AIMA), Physics-Inspired AI, Physics-Informed Neural Networks (PINNs), and Out-of-Distribution (OOD) Detection.</h5>
 
 ###
 
