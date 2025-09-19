@@ -44,6 +44,17 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<!-- Pac-Man over contribution graph -->
+<picture>
+  <!-- dark-mode file (created automatically) -->
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/KangaOnGit/KangaOnGit/output/pacman-contribution-graph-dark.svg" />
+  <!-- light-mode file -->
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/KangaOnGit/KangaOnGit/output/pacman-contribution-graph.svg" />
+  <img alt="Pac-Man contribution graph"
+       src="https://raw.githubusercontent.com/KangaOnGit/KangaOnGitoutput/pacman-contribution-graph.svg" />
+</picture>
+
 
 ###
