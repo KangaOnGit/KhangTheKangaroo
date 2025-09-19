@@ -2,7 +2,7 @@
 
 ###
 
-<h1 align="center">Kangaroo!</h1>
+<h1 align="center">Kangaroo</h1>
 
 ###
 
@@ -20,7 +20,7 @@
 
 ###
 
-<h5 align="left">📄 Current On-going Research: Electromagnetism in Fourier Space for Medical Image Segmentation, Out-of-Distribution Detection (During Training)</h5>
+<h5 align="left">📄 Current Ongoing Research: Electromagnetism in Fourier Space for Medical Image Segmentation, In-Training OOD Detection</h5>
 
 ###
 
