@@ -16,19 +16,19 @@
 
 ###
 
-<h5 align="left">🔭 I’m currently researching about AI in Medical Applications.</h5>
+<h5 align="left">🔭 Current Research Interests: AI in Medical Applications, Physics-Inspired AI, Physics-Informed Neural Networks (PINNs), and Out-of-Distribution (OOD) Detection.</h5>
 
 ###
 
-<h5 align="left">📄 Current Research: Physics-Inspired Electromagnetism in Fourier Space for Medical Image Segmentation</h5>
+<h5 align="left">📄 Current On-going Research: Electromagnetism in Fourier Space for Medical Image Segmentation, Out-of-Distribution Detection (During Training)</h5>
 
 ###
 
-<h5 align="left">📝 My forte are Computer Vision, NLP, and Generative AI.</h5>
+<h5 align="left">📝 Forte: Computer Vision, NLP, and Generative AI.</h5>
 
 ###
 
-<h5 align="left">🌱 I’m currently learning MLOps/LLMOps</h5>
+<h5 align="left">🌱 Currently Learning: MLOps/LLMOps</h5>
 
 ###
 
