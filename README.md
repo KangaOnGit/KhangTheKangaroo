@@ -2,13 +2,33 @@
 
 ###
 
+<h1 align="center">Hi 👋, I'm Kangaroo</h1>
+
+###
+
 <div align="center">
   <img height="200" src="https://media1.tenor.com/m/TgJoERtchegAAAAC/klein-moretti-klein.gif"  />
 </div>
 
 ###
 
-<h6 align="center">Hello World!!</h6>
+<p align="center">Highschool Student (Senior) from Vietnam</p>
+
+###
+
+<h3 align="left">🔭 I’m currently researching about AI in Medical Applications.</h3>
+
+###
+
+<h3 align="left">📄 Current Research: Physics-Inspired Electromagnetism in Fourier Space for Medical Image Segmentation</h3>
+
+###
+
+<h3 align="left">📝 My forte are Computer Vision, NLP, and Generative AI.</h3>
+
+###
+
+<h3 align="left">🌱 I’m currently learning MLOps/LLMOps</h3>
 
 ###
 
