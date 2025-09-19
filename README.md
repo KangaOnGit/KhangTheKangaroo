@@ -1,10 +1,18 @@
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=KangaOnGit.KangaOnGit&left_color=rebeccapurple&right_color=mediumpurple&left_text=Spectators"  />
+
+###
+
 <div align="center">
   <img height="200" src="https://media1.tenor.com/m/TgJoERtchegAAAAC/klein-moretti-klein.gif"  />
 </div>
 
 ###
 
-<div align="left">
+<h6 align="center">Hello World!!</h6>
+
+###
+
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
@@ -26,7 +34,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.simpleicons.org/jupyter/F37626" height="40" alt="jupyter logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle logo"  />
@@ -54,7 +62,9 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=KangaOnGit.KangaOnGit&"  />
+  <a href="https://open.spotify.com/user/Kan">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Kan&count=10&unique=true" alt="Spotify recently played"  />
+  </a>
 </div>
 
 ###
