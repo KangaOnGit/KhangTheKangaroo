@@ -2,7 +2,7 @@
 
 ###
 
-<h1 align="center">Hi 👋, I'm Kangaroo</h1>
+<h1 align="center">Kangaroo!</h1>
 
 ###
 
@@ -16,19 +16,19 @@
 
 ###
 
-<h3 align="left">🔭 I’m currently researching about AI in Medical Applications.</h3>
+<h5 align="left">🔭 I’m currently researching about AI in Medical Applications.</h5>
 
 ###
 
-<h3 align="left">📄 Current Research: Physics-Inspired Electromagnetism in Fourier Space for Medical Image Segmentation</h3>
+<h5 align="left">📄 Current Research: Physics-Inspired Electromagnetism in Fourier Space for Medical Image Segmentation</h5>
 
 ###
 
-<h3 align="left">📝 My forte are Computer Vision, NLP, and Generative AI.</h3>
+<h5 align="left">📝 My forte are Computer Vision, NLP, and Generative AI.</h5>
 
 ###
 
-<h3 align="left">🌱 I’m currently learning MLOps/LLMOps</h3>
+<h5 align="left">🌱 I’m currently learning MLOps/LLMOps</h5>
 
 ###
 
@@ -45,7 +45,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="40" alt="latex logo"  />
+  <img src="https://skillicons.dev/icons?i=latex" height="40" alt="latex logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
   <img width="12" />
