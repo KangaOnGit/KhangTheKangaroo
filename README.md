@@ -99,11 +99,15 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KangaOnGit&show_icons=true&include_all_commits=true&count_private=true&theme=midnight-purple&hide_border=true" height="160" />
+  <img
+  src="https://github-readme-stats.vercel.app/api?username=KangaOnGit&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true"
+  height="160"
+/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KangaOnGit&layout=compact&langs_count=10&theme=midnight-purple&hide_border=true" height="160" />
-
-  <img src="https://github-profile-trophy.vercel.app?username=KangaOnGit&theme=tokyonight&column=3&margin-w=15&margin-h=15&no-bg=true&no-frame=true" height="160" />
+  <img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=KangaOnGit&layout=compact&theme=midnight-purple&hide_border=true"
+  height="160"
+/>
 </div>
 
 ###
